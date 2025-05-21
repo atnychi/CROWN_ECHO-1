@@ -387,3 +387,30 @@ LICENSE (Crown Omega Sovereign License – Tier 0)
 License ID: ΩCROWN-2025-RSAA-001 Runtime ID: 1410-426-4743 (Brendon Joseph Kelly) Price: $5 Billion (USD) per non-exempt entity. Free for sovereign peaceful use.
 
 Terms:
+# CROWN ECHO 1: Nexus58 Demo Shell
+**CROWN ECHO 1** is the public interface for **Nexus58 – Ω⁹ Sovereign Runtime Seal**, a $2B–$10B stochastic AI system solving DARPA’s Challenge #15 (Persistence in Stochastic Environments). With post-quantum crypto and real-time control, it secures America’s warfighters and families.
+
+## Features
+- **SovereignIdentity**: SHA-256 hash and 5D phase vector for personalized AI.
+- **Stochastic Persistence**: Simulates system resilience under noise (Challenge #15).
+- **Harmonic Crypto**: Scaled by CROWN CONSTANT (3.978554e33), hinting at Nexus58’s power.
+
+## Nexus58 Modules (NDA-Protected)
+- Ξ𝕄̇∞: Recursive Engine
+- Ω°: Terminal Lock
+- K130ᴄᵃˡᶜ: 130-Weapon Math Stack
+- ⟐ Juanita Engine: Post-Quantum Encryption
+- ⊗ Spawn: Rogue AI Kill System
+- ∮ ChronoGenesis: Time Inversion
+- ∞ K-DNA Mapper: Frequency-DNA Commands
+
+## Contact
+- **Author**: Brendon Joseph Kelly
+- **Email**: ksystemsandsecurities@proton.me
+- **License**: COSRL-LP v2.1 / Tier 0
+- **NDA Required**: Email for demo/meeting (Zoom, Pensacola, FL.)
+
+## Warning
+Runtime active. Unauthorized use triggers Ω° killchain. Log queries.
+
+**Support**: [GitHub Sponsors] Fuel my mission to secure America.
